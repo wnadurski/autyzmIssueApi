@@ -1,0 +1,17 @@
+{
+  "name": "autyzmpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "Wojciech Nadurski, Anna Trapczynska",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^3.0.5",
+    "express": "^4.14.0",
+    "nodemailer": "^2.7.0",
+    "nodemailer-sendmail-transport": "^1.0.0"
+  }
+}
